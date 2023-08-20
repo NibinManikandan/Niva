@@ -1,0 +1,9 @@
+
+const imageElement = document.getElementById("Mobile-App");
+
+imageElement.src = "/img/NIVA-GOLD-APP.jpg";
+
+
+
+
+
